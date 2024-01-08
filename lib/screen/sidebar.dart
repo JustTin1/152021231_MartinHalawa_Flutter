@@ -137,7 +137,7 @@ class Sidebar extends StatelessWidget {
             onTap: () {
               Navigator.push(
                     context,
-                    MaterialPageRoute(builder: (context) => SplashScreenPage()), 
+                    MaterialPageRoute(builder: (context) => LoginScreen()), 
                   );
             },
           ),

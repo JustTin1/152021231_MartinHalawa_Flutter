@@ -24,7 +24,7 @@ class ProductDetailsScreen extends StatefulWidget {
 
 class _ProductDetailsScreenState extends State<ProductDetailsScreen> {
   List<String> images = [
-    'assets/images/gambar3.png',
+    'images/gambar3.png',
   ];
 
   int _currentIndex = 0;

@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:grinding_flutter_edisi_tobat_web/screen/sidebar.dart';
-import 'package:grinding_flutter_edisi_tobat_web/screen/kalkulator.dart';
 
 void main() => runApp(Bmi());
 
